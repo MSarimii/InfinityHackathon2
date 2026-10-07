@@ -1,0 +1,7 @@
+{
+  "name": "NovaWorks AI Project Manager",
+  "description": "Meeting to Execution Project Management CRM for NovaWorks Technologies with AI transcript extraction, validation, and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
